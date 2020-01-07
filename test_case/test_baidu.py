@@ -7,6 +7,9 @@
 import requests
 import unittest
 from common.config import Config
+from common.log import log
+
+log = log()
 
 
 class TestBaidu(unittest.TestCase):
@@ -20,7 +23,10 @@ class TestBaidu(unittest.TestCase):
 
     def test_get_baidu(self):
         rsp_code = requests.get(self.URL)
-        self.assertEqual(rsp_code, 200)
+        if rsp_code.status_code == 200:
+            log.info('Case Pass')
+        else:
+            log.error('response code should be 200 ,not be:{}'.format(rsp_code.status_code))
 
 
 if __name__ == '__main__':
