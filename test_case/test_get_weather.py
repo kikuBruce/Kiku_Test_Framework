@@ -16,8 +16,6 @@ log = log()
 
 
 class TestGetWeather(unittest.TestCase):
-    URL = Config().get_config(element='url', index=0)
-
     excel_file = os.path.join(DATA_PATH, 'CityCode.XLS')
     excel_data = ExcelReader(excel_file=excel_file, title=True, sheet=0).data
 
