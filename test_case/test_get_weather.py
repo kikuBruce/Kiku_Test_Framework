@@ -15,7 +15,7 @@ from common.file_reader import ExcelReader
 log = log()
 
 
-class TestBaidu(unittest.TestCase):
+class TestGetWeather(unittest.TestCase):
     URL = Config().get_config(element='url', index=0)
 
     excel_file = os.path.join(DATA_PATH, 'CityCode.XLS')
