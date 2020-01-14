@@ -27,7 +27,7 @@ class TestBaidu(unittest.TestCase):
     def tearDown(self) -> None:
         pass
 
-    def test_get_baidu(self):
+    def test_get_weather_by_shenzhen(self):
         city_name = "深圳"
         log.info('*' * 20 + "获取城市编码" + '*' * 20)
         for index in range(0, len(self.excel_data)):
