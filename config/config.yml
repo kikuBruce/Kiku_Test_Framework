@@ -4,7 +4,7 @@
 # @Author  : Lin lin
 
 ---
-url: http://www.baidu.com
+url: http://api.help.bj.cn/apis/weather/
 
 # log_conf
 log:
