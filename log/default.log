@@ -49,3 +49,126 @@
 [INFO][1244][10264]--2020-01-14 22:55:18,480--[test_get_weather.py test_get_baidu 32]: ********************获取城市编码********************
 [INFO][1244][10264]--2020-01-14 22:55:18,481--[test_get_weather.py test_get_baidu 36]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
 [INFO][1244][10264]--2020-01-14 22:55:19,312--[test_get_weather.py test_get_baidu 50]: 深圳 2020-01-14 周二         	 温度: 深圳         	 天气：17         	 pm2.5：晴
+[INFO][38496][38892]--2020-01-17 16:47:37,421--[test_get_weather.py test_get_weather_by_shenzhen 30]: ********************获取城市编码********************
+[INFO][38496][38892]--2020-01-17 16:47:37,422--[test_get_weather.py test_get_weather_by_shenzhen 34]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][38496][38892]--2020-01-17 16:47:37,788--[test_get_weather.py test_get_weather_by_shenzhen 48]: 深圳 2020-01-17 周五         	 温度: 深圳         	 天气：18         	 pm2.5：多云
+[INFO][40360][15948]--2020-01-17 16:51:13,494--[test_get_weather.py test_get_weather_by_shenzhen 28]: ********************获取城市编码********************
+[INFO][21600][41688]--2020-01-17 16:57:20,425--[test_get_weather.py test_get_weather_by_shenzhen 29]: ********************获取城市编码********************
+[INFO][21600][41688]--2020-01-17 16:57:20,426--[test_get_weather.py test_get_weather_by_shenzhen 33]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][22120][25068]--2020-01-17 16:57:40,840--[test_get_weather.py test_get_weather_by_shenzhen 29]: ********************获取城市编码********************
+[INFO][22120][25068]--2020-01-17 16:57:40,841--[test_get_weather.py test_get_weather_by_shenzhen 33]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][26656][26816]--2020-01-17 16:58:06,773--[test_get_weather.py test_get_weather_by_shenzhen 29]: ********************获取城市编码********************
+[INFO][26656][26816]--2020-01-17 16:58:06,774--[test_get_weather.py test_get_weather_by_shenzhen 33]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][31384][40900]--2020-01-17 17:09:29,629--[test_get_weather.py test_get_weather_by_shenzhen 29]: ********************获取城市编码********************
+[INFO][31384][40900]--2020-01-17 17:09:29,630--[test_get_weather.py test_get_weather_by_shenzhen 33]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][31564][29036]--2020-01-17 17:09:46,009--[test_get_weather.py test_get_weather_by_shenzhen 29]: ********************获取城市编码********************
+[INFO][31564][29036]--2020-01-17 17:09:46,010--[test_get_weather.py test_get_weather_by_shenzhen 33]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][39716][40848]--2020-01-17 17:10:16,450--[test_get_weather.py test_get_weather_by_shenzhen 29]: ********************获取城市编码********************
+[INFO][39716][40848]--2020-01-17 17:10:16,451--[test_get_weather.py test_get_weather_by_shenzhen 33]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][39716][40848]--2020-01-17 17:10:16,666--[test_get_weather.py test_get_weather_by_shenzhen 49]: 深圳 2020-01-17 周五         	 温度: 深圳         	 天气：18         	 pm2.5：多云
+[INFO][36956][42452]--2020-01-17 17:13:39,038--[test_get_weather.py test_get_weather_by_shenzhen 29]: ********************获取城市编码********************
+[INFO][36956][42452]--2020-01-17 17:13:39,039--[test_get_weather.py test_get_weather_by_shenzhen 33]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][36956][42452]--2020-01-17 17:13:39,239--[test_get_weather.py test_get_weather_by_shenzhen 49]: 深圳 2020-01-17 周五         	 温度: 深圳         	 天气：18         	 pm2.5：多云
+[INFO][35340][40184]--2020-01-17 17:15:16,995--[test_get_weather.py test_get_weather_by_shenzhen 29]: ********************获取城市编码********************
+[INFO][35340][40184]--2020-01-17 17:15:16,995--[test_get_weather.py test_get_weather_by_shenzhen 33]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][35340][40184]--2020-01-17 17:15:19,008--[test_get_weather.py test_get_weather_by_shenzhen 39]: Case Pass!!!
+[INFO][35340][40184]--2020-01-17 17:15:19,008--[test_get_weather.py test_get_weather_by_shenzhen 49]: 深圳 2020-01-17 周五         	 温度: 深圳         	 天气：18         	 pm2.5：多云
+[INFO][17044][40048]--2020-01-17 17:17:16,100--[test_get_weather.py test_get_weather_by_shenzhen 29]: ********************获取城市编码********************
+[INFO][17044][40048]--2020-01-17 17:17:16,100--[test_get_weather.py test_get_weather_by_shenzhen 33]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][42324][12580]--2020-01-17 17:17:48,248--[test_get_weather.py test_get_weather_by_shenzhen 29]: ********************获取城市编码********************
+[INFO][42324][12580]--2020-01-17 17:17:48,249--[test_get_weather.py test_get_weather_by_shenzhen 33]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][42324][12580]--2020-01-17 17:17:48,445--[test_get_weather.py test_get_weather_by_shenzhen 39]: test_get_weatherCase Pass!!!
+[INFO][36032][33644]--2020-01-17 17:19:20,111--[test_get_weather.py test_get_weather_by_shenzhen 29]: test_get_weatherCase Run...
+[INFO][36032][33644]--2020-01-17 17:19:20,111--[test_get_weather.py test_get_weather_by_shenzhen 30]: 获取城市编码
+[INFO][36032][33644]--2020-01-17 17:19:20,112--[test_get_weather.py test_get_weather_by_shenzhen 34]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][36032][33644]--2020-01-17 17:19:20,353--[test_get_weather.py test_get_weather_by_shenzhen 40]: test_get_weatherCase Pass!!!
+[INFO][42288][18272]--2020-01-17 17:20:19,874--[test_get_weather.py test_get_weather_by_shenzhen 29]: ********************test_get_weather Case Run...********************
+[INFO][42288][18272]--2020-01-17 17:20:19,875--[test_get_weather.py test_get_weather_by_shenzhen 30]: 获取城市编码
+[INFO][42288][18272]--2020-01-17 17:20:19,875--[test_get_weather.py test_get_weather_by_shenzhen 34]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][42288][18272]--2020-01-17 17:20:20,056--[test_get_weather.py test_get_weather_by_shenzhen 40]: test_get_weatherCase Pass!!!
+[INFO][32468][36984]--2020-01-17 17:20:54,238--[test_get_weather.py test_get_weather_by_shenzhen 28]: test_get_weather
+[INFO][32468][36984]--2020-01-17 17:20:54,238--[test_get_weather.py test_get_weather_by_shenzhen 30]: ********************test_get_weather Case Run...********************
+[INFO][32468][36984]--2020-01-17 17:20:54,238--[test_get_weather.py test_get_weather_by_shenzhen 31]: 获取城市编码
+[INFO][32468][36984]--2020-01-17 17:20:54,239--[test_get_weather.py test_get_weather_by_shenzhen 35]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][32468][36984]--2020-01-17 17:20:54,413--[test_get_weather.py test_get_weather_by_shenzhen 41]: test_get_weatherCase Pass!!!
+[INFO][33996][30916]--2020-01-17 17:22:34,132--[test_get_weather.py test_get_weather_by_shenzhen 28]: test_get_weather
+[INFO][33996][30916]--2020-01-17 17:22:34,133--[test_get_weather.py test_get_weather_by_shenzhen 30]: 获取城市编码
+[INFO][33996][30916]--2020-01-17 17:22:34,134--[test_get_weather.py test_get_weather_by_shenzhen 34]: 获取城市编码成功，城市名称：深圳； CityCode: 101280601
+[INFO][42920][42216]--2020-01-17 17:45:57,305--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][14916][42836]--2020-01-17 17:46:52,036--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][42492][19304]--2020-01-17 17:46:55,608--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][27220][34144]--2020-01-17 17:47:51,998--[test_get_weather.py test_get_weather_by_shenzhen 29]: 获取城市编码...
+[INFO][27220][34144]--2020-01-17 17:47:51,999--[test_get_weather.py test_get_weather_by_shenzhen 33]: 城市名称：深圳； CityCode: 101280601
+[INFO][27220][34144]--2020-01-17 17:47:52,223--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][40184][41556]--2020-01-17 17:48:32,295--[test_get_weather.py test_get_weather_by_shenzhen 29]: 获取城市编码...
+[INFO][40184][41556]--2020-01-17 17:48:32,295--[test_get_weather.py test_get_weather_by_shenzhen 33]: 城市名称：深圳； CityCode: 101280601
+[INFO][40184][41556]--2020-01-17 17:48:32,504--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][42696][42148]--2020-01-17 17:49:14,404--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][38988][30572]--2020-01-17 17:49:42,415--[test_get_weather.py test_get_weather_by_shenzhen 29]: 获取城市编码...
+[INFO][38988][30572]--2020-01-17 17:49:42,416--[test_get_weather.py test_get_weather_by_shenzhen 33]: 城市名称：深圳； CityCode: 101280601
+[INFO][38988][30572]--2020-01-17 17:49:42,588--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][35880][40004]--2020-01-17 17:49:58,491--[test_get_weather.py test_get_weather_by_shenzhen 29]: 获取城市编码...
+[INFO][35880][40004]--2020-01-17 17:49:58,492--[test_get_weather.py test_get_weather_by_shenzhen 33]: 城市名称：深圳； CityCode: 101280601
+[INFO][35880][40004]--2020-01-17 17:49:58,695--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][35880][40004]--2020-01-17 17:49:58,866--[test_get_weather.py test_get_weather_by_undefined_citycode 58]: <Response [200]>
+[INFO][42428][42716]--2020-01-17 17:50:09,617--[test_get_weather.py test_get_weather_by_shenzhen 29]: 获取城市编码...
+[INFO][42428][42716]--2020-01-17 17:50:09,618--[test_get_weather.py test_get_weather_by_shenzhen 33]: 城市名称：深圳； CityCode: 101280601
+[INFO][42428][42716]--2020-01-17 17:50:09,791--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][32036][6464]--2020-01-17 17:51:24,364--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][38128][16176]--2020-01-17 17:52:31,288--[test_get_weather.py test_get_weather_by_shenzhen 29]: 获取城市编码...
+[INFO][38128][16176]--2020-01-17 17:52:31,289--[test_get_weather.py test_get_weather_by_shenzhen 33]: 城市名称：深圳； CityCode: 101280601
+[INFO][38128][16176]--2020-01-17 17:52:31,490--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][38128][16176]--2020-01-17 17:52:31,761--[test_get_weather.py test_get_weather_by_undefined_citycode 58]: ><title>302 Found</title></head>
+<body>
+<center><h1>302 Found</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+
+[INFO][41308][36196]--2020-01-17 17:56:20,674--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][38712][42996]--2020-01-17 17:59:36,928--[test_get_weather.py test_get_weather_by_shenzhen 29]: 获取城市编码...
+[INFO][38712][42996]--2020-01-17 17:59:36,928--[test_get_weather.py test_get_weather_by_shenzhen 33]: 城市名称：深圳； CityCode: 101280601
+[INFO][38712][42996]--2020-01-17 17:59:37,110--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][41896][42252]--2020-01-17 18:00:23,760--[test_get_weather.py test_get_weather_by_shenzhen 29]: 获取城市编码...
+[INFO][41896][42252]--2020-01-17 18:00:23,760--[test_get_weather.py test_get_weather_by_shenzhen 33]: 城市名称：深圳； CityCode: 101280601
+[INFO][41896][42252]--2020-01-17 18:00:23,934--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][40224][41224]--2020-01-17 18:01:19,828--[test_get_weather.py test_get_weather_by_shenzhen 29]: 获取城市编码...
+[INFO][40224][41224]--2020-01-17 18:01:19,828--[test_get_weather.py test_get_weather_by_shenzhen 33]: 城市名称：深圳； CityCode: 101280601
+[INFO][2052][36000]--2020-01-17 18:01:35,936--[test_get_weather.py test_get_weather_by_shenzhen 29]: 获取城市编码...
+[INFO][2052][36000]--2020-01-17 18:01:35,936--[test_get_weather.py test_get_weather_by_shenzhen 33]: 城市名称：深圳； CityCode: 101280601
+[INFO][36960][38892]--2020-01-17 18:02:06,119--[test_get_weather.py test_get_weather_by_undefined_citycode 55]: CityCode: 99999999999
+[INFO][16656][40236]--2020-01-17 18:06:18,193--[test_get_weather.py test_get_weather_by_shenzhen 29]: 获取城市编码...
+[INFO][16656][40236]--2020-01-17 18:06:18,194--[test_get_weather.py test_get_weather_by_shenzhen 33]: 城市名称：深圳； CityCode: 101280601
+[INFO][42356][22888]--2020-01-17 18:09:40,402--[test_get_weather.py test_get_weather_by_undefined_citycode 54]: CityCode: 99999999999
+[INFO][14268][40040]--2020-01-17 18:11:35,576--[test_get_weather.py test_get_weather_by_shenzhen 29]: 获取城市编码...
+[INFO][14268][40040]--2020-01-17 18:11:35,577--[test_get_weather.py test_get_weather_by_shenzhen 33]: 城市名称：深圳； CityCode: 101280601
+[INFO][14268][40040]--2020-01-17 18:11:35,928--[test_get_weather.py test_get_weather_by_undefined_citycode 42]: CityCode: 99999999999
+[INFO][14268][40040]--2020-01-17 18:11:35,930--[test_get_weather.py test_get_weather_by_undefined_citycode 45]: http://api.help.bj.cn/apis/weather/?id=99999999999
+[INFO][42316][32596]--2020-01-17 18:13:10,876--[test_get_weather.py test_get_weather_by_undefined_citycode 42]: CityCode: 99999999999
+[INFO][42316][32596]--2020-01-17 18:13:10,878--[test_get_weather.py test_get_weather_by_undefined_citycode 45]: http://api.help.bj.cn/apis/weather/?id=99999999999
+[INFO][37548][21292]--2020-01-17 18:13:34,911--[test_get_weather.py test_get_weather_by_undefined_citycode 42]: CityCode: 99999999999
+[INFO][37548][21292]--2020-01-17 18:13:34,913--[test_get_weather.py test_get_weather_by_undefined_citycode 45]: http://api.help.bj.cn/apis/weather/?id=99999999999
+[INFO][25112][32016]--2020-01-17 18:14:14,869--[test_get_weather.py test_get_weather_by_undefined_citycode 42]: CityCode: 99999999999
+[INFO][25112][32016]--2020-01-17 18:14:14,871--[test_get_weather.py test_get_weather_by_undefined_citycode 45]: http://api.help.bj.cn/apis/weather/?id=99999999999
+[INFO][40184][36624]--2020-01-17 18:16:22,930--[test_get_weather.py test_get_weather_by_undefined_citycode 42]: CityCode: 101011800
+[INFO][40184][36624]--2020-01-17 18:16:22,932--[test_get_weather.py test_get_weather_by_undefined_citycode 45]: http://api.help.bj.cn/apis/weather/?id=101011800
+[INFO][12504][41732]--2020-01-17 18:16:32,460--[test_get_weather.py test_get_weather_by_undefined_citycode 42]: CityCode: 101011800
+[INFO][12504][41732]--2020-01-17 18:16:32,462--[test_get_weather.py test_get_weather_by_undefined_citycode 45]: http://api.help.bj.cn/apis/weather/?id=101011800
+[INFO][42968][31848]--2020-01-17 18:16:53,792--[test_get_weather.py test_get_weather_by_undefined_citycode 42]: CityCode: 101060101
+[INFO][42968][31848]--2020-01-17 18:16:53,794--[test_get_weather.py test_get_weather_by_undefined_citycode 45]: http://api.help.bj.cn/apis/weather/?id=101060101
+[INFO][43196][43208]--2020-01-17 18:19:59,781--[test_get_weather.py test_get_weather_by_undefined_citycode 42]: CityCode: 101060101
+[INFO][43196][43208]--2020-01-17 18:19:59,783--[test_get_weather.py test_get_weather_by_undefined_citycode 45]: http://api.help.bj.cn/apis/weather/?id=101060101
+[INFO][6464][32036]--2020-01-17 18:20:17,835--[test_get_weather.py test_get_weather_by_undefined_citycode 42]: CityCode: 101060199
+[INFO][6464][32036]--2020-01-17 18:20:17,837--[test_get_weather.py test_get_weather_by_undefined_citycode 45]: http://api.help.bj.cn/apis/weather/?id=101060199
+[INFO][40792][41732]--2020-01-17 18:22:45,298--[test_get_weather.py test_get_weather_by_default_citycode 42]: http://api.help.bj.cn/apis/weather/
+[INFO][40792][41732]--2020-01-17 18:22:45,550--[test_get_weather.py test_get_weather_by_shenzhen 29]: 获取城市编码...
+[INFO][40792][41732]--2020-01-17 18:22:45,551--[test_get_weather.py test_get_weather_by_shenzhen 33]: 城市名称：深圳； CityCode: 101280601
+[INFO][31880][42300]--2020-01-17 18:23:16,280--[test_get_weather.py test_get_weather_by_default_citycode 42]: http://api.help.bj.cn/apis/weather/
+[INFO][27700][43876]--2020-01-17 18:23:35,519--[test_get_weather.py test_get_weather_by_default_citycode 42]: http://api.help.bj.cn/apis/weather/
+[INFO][35444][38292]--2020-01-17 18:23:46,213--[test_get_weather.py test_get_weather_by_default_citycode 42]: http://api.help.bj.cn/apis/weather/
+[INFO][43716][3156]--2020-01-17 18:24:04,447--[test_get_weather.py test_get_weather_by_default_citycode 42]: http://api.help.bj.cn/apis/weather/
+[INFO][27516][10720]--2020-01-17 18:24:11,370--[test_get_weather.py test_get_weather_by_default_citycode 42]: http://api.help.bj.cn/apis/weather/
+[INFO][27516][10720]--2020-01-17 18:24:11,758--[test_get_weather.py test_get_weather_by_shenzhen 29]: 获取城市编码...
+[INFO][27516][10720]--2020-01-17 18:24:11,759--[test_get_weather.py test_get_weather_by_shenzhen 33]: 城市名称：深圳； CityCode: 101280601
+[INFO][40600][42544]--2020-01-17 18:24:26,864--[test_get_weather.py test_get_weather_by_default_citycode 42]: http://api.help.bj.cn/apis/weather/
+[INFO][43292][43328]--2020-01-17 18:24:32,790--[test_get_weather.py test_get_weather_by_default_citycode 42]: http://api.help.bj.cn/apis/weather/
