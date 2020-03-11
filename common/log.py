@@ -21,7 +21,6 @@ def log(logger_name=None, c_level=None, f_level=None, f_name=None, f_path=None):
     :return:
     """
     get_elm_by_config = Config().get_config(element='log')
-    print()
 
     log_path = LOG_PATH if f_path is None else f_path
     f_name = os.path.join(log_path, get_elm_by_config.get('file_name')) if f_name is None else os.path.join(log_path, f_name)

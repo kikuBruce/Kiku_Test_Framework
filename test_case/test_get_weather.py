@@ -3,14 +3,16 @@
 # @Date    : 2020/1/4
 # @Author  : Lin lin
 
-
+import os
+import sys
+sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../')
 import requests
 import unittest
-import os
 import json
 from common.config import Config, DATA_PATH
 from common.log import log
 from common.file_reader import ExcelReader
+from common import HTMLTestRunner
 
 log = log()
 
