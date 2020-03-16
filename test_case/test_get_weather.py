@@ -37,7 +37,7 @@ class TestGetWeather(unittest.TestCase):
         rsp = requests.get(url=_url)
         self.assertEqual(rsp.status_code, 200)
 
-    def test_get_weather_by_default_citycode(self):
+    def test_get_weather_by_default(self):
         _url = Config().get_config(element='url', index=0)
         log.info(_url)
         rsp = requests.get(url=_url)
