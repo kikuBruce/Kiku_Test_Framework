@@ -4,13 +4,16 @@
 # @Author  : Lin lin
 
 
+import os
+import sys
 import requests
 import unittest
-import os
-import json
-from common.config import Config, DATA_PATH
+sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../')
+from common.config import Config, DATA_PATH, REPORT_PATH
 from common.log import log
 from common.file_reader import ExcelReader
+from common.HTMLTestRunner import HTMLTestRunner
+
 
 log = log()
 
@@ -45,4 +48,8 @@ class TestGetWeather(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()
+    # unittest.main()
+    report = REPORT_PATH + '\\report.html'
+    with open(report, 'wb') as f:
+        runner = HTMLTestRunner(f, verbosity=2, title='TestGetWeather', description='TestGetWeather')
+        runner.run(TestGetWeather('test_get_weather_by_shenzhen'))

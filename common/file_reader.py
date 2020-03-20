@@ -79,3 +79,9 @@ if __name__ == '__main__':
     excel_file = os.path.join(DATA_PATH, 'CityCode.XLS')
     excel_reader = ExcelReader(excel_file=excel_file, sheet=0, title=True)
     print(excel_reader.data)
+
+    for i in excel_reader.data:
+        if i['ReadmeName'] is not '':
+            print(i['ReadmeName'])
+        else:
+            continue
