@@ -43,7 +43,10 @@ class SSH:
     def execute(self, cmd):
         # 执行cmd，返回列表
         self.connect()
-        standard_input, standard_out, standard_error = self.ssh.exec_command(cmd, timeout=60)
+        try:
+            standard_input, standard_out, standard_error = self.ssh.exec_command(cmd, timeout=60)
+        except Exception:
+            raise TypeError('获取返回结果失败，CMD无效或连接超时...')
         self.standard_input = standard_input
         self.standard_out = standard_out
         self.standard_error = standard_error

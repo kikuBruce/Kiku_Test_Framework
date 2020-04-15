@@ -49,3 +49,5 @@
 [INFO][31104][25504]--2020-03-20 15:53:34,784--[test_get_weather.py test_get_weather_by_shenzhen 36]: 城市名称：深圳； CityCode: 101280601
 [INFO][26344][23980]--2020-03-20 15:53:53,467--[test_get_weather.py test_get_weather_by_shenzhen 32]: 获取城市编码...
 [INFO][26344][23980]--2020-03-20 15:53:53,468--[test_get_weather.py test_get_weather_by_shenzhen 36]: 城市名称：深圳； CityCode: 101280601
+[ERROR][9000][4704]--2020-03-21 00:48:30,993--[ssh.py connect 38]: timed out
+[ERROR][19252][18484]--2020-03-21 00:52:24,765--[ssh.py connect 38]: timed out
